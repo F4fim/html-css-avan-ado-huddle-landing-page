@@ -85,4 +85,5 @@ a {
 
 .redes-sociais li a i:hover {
     color: var(--cor-do-hover);
+    border: 1px solid var(--cor-do-hover);
 }
